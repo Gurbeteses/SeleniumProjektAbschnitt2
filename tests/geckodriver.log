@@ -1,0 +1,1809 @@
+1660747970126	geckodriver	INFO	Listening on 127.0.0.1:52200
+1660747973182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilelle6t2"
+1660747973495	Marionette	INFO	Marionette enabled
+1660747973500	Marionette	INFO	Listening on port 52210
+WebDriver BiDi listening on ws://localhost:52201
+Read port: 52210
+1660747973605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilelle6t2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52201/devtools/browser/2dcf2ad5-c615-46a9-864f-090bb57bd1e3
+1660751654055	Marionette	INFO	Stopped listening on port 52210
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+abled
+1660747981769	Marionette	INFO	Listening on port 52282
+WebDriver BiDi listening on ws://localhost:52270
+Read port: 52282
+1660747981872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile02VqCb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52270/devtools/browser/c80c848a-671e-40f8-b1b6-5d57ea1930eb
+1660751653978	Marionette	INFO	Stopped listening on port 52282
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52338" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile8BpRmO"
+1660748051581	Marionette	INFO	Marionette enabled
+1660748051584	Marionette	INFO	Listening on port 52347
+WebDriver BiDi listening on ws://localhost:52338
+Read port: 52347
+1660748051676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile8BpRmO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52338/devtools/browser/3776c351-32e8-4416-8306-b991c61f6571
+1660751654058	Marionette	INFO	Stopped listening on port 52347
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+ning on port 52418
+WebDriver BiDi listening on ws://localhost:52402
+Read port: 52418
+1660748058339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilePew1lV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52402/devtools/browser/261d86ad-7296-4d00-abc9-015c058bc197
+1660751653968	Marionette	INFO	Stopped listening on port 52418
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileAbqeG3"
+1660748465479	Marionette	INFO	Marionette enabled
+1660748465487	Marionette	INFO	Listening on port 52858
+Read port: 52858
+WebDriver BiDi listening on ws://localhost:52849
+1660748465626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileAbqeG3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52849/devtools/browser/ef3c97be-2a0f-40db-9c1d-a1a3d5077131
+1660748993899	Marionette	INFO	Stopped listening on port 52858
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660752516715	geckodriver	INFO	Listening on 127.0.0.1:54660
+1660752519769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54661" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofiletZuMGf"
+1660752520080	Marionette	INFO	Marionette enabled
+1660752520084	Marionette	INFO	Listening on port 54670
+WebDriver BiDi listening on ws://localhost:54661
+Read port: 54670
+1660752520181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofiletZuMGf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54661/devtools/browser/c0816aff-d20d-40da-98ca-b42c7120af2a
+1660753777416	Marionette	INFO	Stopped listening on port 54670
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54704" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileEmVJsO"
+1660752576001	Marionette	INFO	Marionette enabled
+1660752576004	Marionette	INFO	Listening on port 54713
+WebDriver BiDi listening on ws://localhost:54704
+Read port: 54713
+1660752576170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileEmVJsO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54704/devtools/browser/7f915cbf-c1b1-46ce-a8e9-9015a8388128
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660752597290	Marionette	INFO	Stopped listening on port 54713
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660752671383	geckodriver	INFO	Listening on 127.0.0.1:54755
+1660752674449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54756" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileP1kljy"
+1660752674741	Marionette	INFO	Marionette enabled
+1660752674744	Marionette	INFO	Listening on port 54766
+WebDriver BiDi listening on ws://localhost:54756
+Read port: 54766
+1660752674836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileP1kljy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54756/devtools/browser/8bc1fa24-1687-401b-b019-3c0e6082a4d6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660752682299	Marionette	INFO	Stopped listening on port 54766
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660908940803	geckodriver	INFO	Listening on 127.0.0.1:50770
+1660908943875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileRJFPFJ"
+1660908944160	Marionette	INFO	Marionette enabled
+1660908944164	Marionette	INFO	Listening on port 50780
+WebDriver BiDi listening on ws://localhost:50771
+Read port: 50780
+1660908944274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileRJFPFJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50771/devtools/browser/3fb00e74-7366-4f56-991a-418949565df7
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660909023181	Marionette	INFO	Stopped listening on port 50780
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660909064918	geckodriver	INFO	Listening on 127.0.0.1:50837
+1660909067966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50838" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofiler6RINx"
+1660909068243	Marionette	INFO	Marionette enabled
+1660909068246	Marionette	INFO	Listening on port 50847
+WebDriver BiDi listening on ws://localhost:50838
+Read port: 50847
+1660909068345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofiler6RINx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50838/devtools/browser/d35d9e49-23d5-46bb-b58e-58bb6f43e77e
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660911650769	Marionette	INFO	Stopped listening on port 50847
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660912151535	geckodriver	INFO	Listening on 127.0.0.1:51209
+1660912154583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51210" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileD42IVS"
+1660912154852	Marionette	INFO	Marionette enabled
+1660912154855	Marionette	INFO	Listening on port 51219
+WebDriver BiDi listening on ws://localhost:51210
+Read port: 51219
+1660912154960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileD42IVS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51210/devtools/browser/dc03a06c-a797-4c86-8e23-9cd44b27a0c6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660912962685	Marionette	INFO	Stopped listening on port 51219
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilekRQQMT"
+1660912228441	Marionette	INFO	Marionette enabled
+1660912228444	Marionette	INFO	Listening on port 51276
+WebDriver BiDi listening on ws://localhost:51267
+Read port: 51276
+1660912228659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilekRQQMT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51267/devtools/browser/fb7d5401-9e24-466e-8676-089e9fdb1aab
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660912244251	Marionette	INFO	Stopped listening on port 51276
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660912545368	geckodriver	INFO	Listening on 127.0.0.1:51353
+1660912548433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51354" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile7jti0B"
+1660912548691	Marionette	INFO	Marionette enabled
+1660912548694	Marionette	INFO	Listening on port 51363
+WebDriver BiDi listening on ws://localhost:51354
+Read port: 51363
+1660912548867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile7jti0B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51354/devtools/browser/f1477853-6dde-41cd-8ce6-7984d49e69b7
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1660912632840	Marionette	INFO	Stopped listening on port 51363
+1660912670702	geckodriver	INFO	Listening on 127.0.0.1:51417
+1660912673778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51418" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilesnQ0Lt"
+1660912674052	Marionette	INFO	Marionette enabled
+1660912674055	Marionette	INFO	Listening on port 51427
+WebDriver BiDi listening on ws://localhost:51418
+Read port: 51427
+1660912674145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilesnQ0Lt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51418/devtools/browser/ceccd00c-c16e-4868-953d-9730fc17929b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1660912702712	Marionette	INFO	Stopped listening on port 51427
+1660912745012	geckodriver	INFO	Listening on 127.0.0.1:51470
+1660912748082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51471" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile93ZU50"
+1660912748339	Marionette	INFO	Marionette enabled
+1660912748342	Marionette	INFO	Listening on port 51480
+WebDriver BiDi listening on ws://localhost:51471
+Read port: 51480
+1660912748555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile93ZU50\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51471/devtools/browser/dac1a2f8-4fc2-475b-a0e7-54f276839c5b
+1660912962140	Marionette	INFO	Stopped listening on port 51480
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile7UA0dR"
+1660912826768	Marionette	INFO	Marionette enabled
+1660912826771	Marionette	INFO	Listening on port 51526
+WebDriver BiDi listening on ws://localhost:51517
+Read port: 51526
+1660912826944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile7UA0dR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51517/devtools/browser/f6c322bb-41c6-4aeb-a939-35443a6442a1
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660912845480	Marionette	INFO	Stopped listening on port 51526
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660912909797	geckodriver	INFO	Listening on 127.0.0.1:51567
+1660912912854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51568" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilesrYosk"
+1660912913105	Marionette	INFO	Marionette enabled
+1660912913109	Marionette	INFO	Listening on port 51577
+WebDriver BiDi listening on ws://localhost:51568
+Read port: 51577
+1660912913270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilesrYosk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51568/devtools/browser/b97c2f27-ac46-403b-8c3a-3dd9ab599bc8
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660912961168	Marionette	INFO	Stopped listening on port 51577
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660913196181	geckodriver	INFO	Listening on 127.0.0.1:51678
+1660913199243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileHdn2nL"
+1660913199489	Marionette	INFO	Marionette enabled
+1660913199492	Marionette	INFO	Listening on port 51688
+WebDriver BiDi listening on ws://localhost:51679
+Read port: 51688
+1660913199705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileHdn2nL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51679/devtools/browser/a7c8ca2c-1e03-4528-80d4-8634b256faf5
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660913347402	Marionette	INFO	Stopped listening on port 51688
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileQih6YW"
+1660913229284	Marionette	INFO	Marionette enabled
+1660913229288	Marionette	INFO	Listening on port 51730
+WebDriver BiDi listening on ws://localhost:51721
+Read port: 51730
+1660913229390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileQih6YW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51721/devtools/browser/bc47ec44-ba63-4aa6-b9b8-c8bfc37b3366
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660913346937	Marionette	INFO	Stopped listening on port 51730
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51778" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileOGNy46"
+1660913289505	Marionette	INFO	Marionette enabled
+1660913289508	Marionette	INFO	Listening on port 51787
+WebDriver BiDi listening on ws://localhost:51778
+Read port: 51787
+1660913289623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileOGNy46\\search.json.mozlz4", (void 0)))
+1660913296986	geckodriver	INFO	Listening on 127.0.0.1:51799
+1660913300059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51800" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile4WxHWp"
+1660913300307	Marionette	INFO	Marionette enabled
+1660913300310	Marionette	INFO	Listening on port 51809
+WebDriver BiDi listening on ws://localhost:51800
+Read port: 51809
+1660913300476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile4WxHWp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51800/devtools/browser/1230ca60-535e-4549-a4f3-57f51fd56803
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660913346161	Marionette	INFO	Stopped listening on port 51801660913346489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51840" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilee3Zsks"
+1660913346877	Marionette	INFO	Marionette enabled
+1660913346889	Marionette	INFO	Listening on port 51850
+WebDriver BiDi listening on ws://localhost:51840
+Read port: 51850
+1660913347060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilee3Zsks\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51840/devtools/browser/ef3c3c28-dd43-4164-93b9-38e710ff77bc
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660913393301	Marionette	INFO	Stopped listening on port 51850
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660913399948	geckodriver	INFO	Listening on 127.0.0.1:51886
+1660913403318	geckodriver	INFO	Listening on 127.0.0.1:51892
+1660913406389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile8m6BHJ"
+1660913406643	Marionette	INFO	Marionette enabled
+1660913406647	Marionette	INFO	Listening on port 51902
+WebDriver BiDi listening on ws://localhost:51893
+Read port: 51902
+1660913406752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile8m6BHJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51893/devtools/browser/a57c6293-558f-4e1b-8253-93d35fd59494
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660914484999	Marionette	INFO	Stopped listening on port 51902
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51943" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile6WUGEB"
+1660913441405	Marionette	INFO	Marionette enabled
+1660913441408	Marionette	INFO	Listening on port 51952
+WebDriver BiDi listening on ws://localhost:51943
+Read port: 51952
+1660913441504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile6WUGEB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51943/devtools/browser/fab65873-470b-43d4-a6c4-5d56e83299fb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660914488796	Marionette	INFO	Stopped listening on port 51952
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660914525734	geckodriver	INFO	Listening on 127.0.0.1:52104
+1660914528786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52105" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileivAxUk"
+1660914529067	Marionette	INFO	Marionette enabled
+1660914529071	Marionette	INFO	Listening on port 52114
+WebDriver BiDi listening on ws://localhost:52105
+Read port: 52114
+1660914529157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileivAxUk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52105/devtools/browser/428012ab-9a42-45b4-8889-80b5623eb376
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660914610909	Marionette	INFO	Stopped listening on port 52111660914611985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52160" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilexLpLlx"
+1660914612230	Marionette	INFO	Marionette enabled
+1660914612233	Marionette	INFO	Listening on port 52170
+WebDriver BiDi listening on ws://localhost:52160
+Read port: 52170
+1660914612444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilexLpLlx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52160/devtools/browser/d9ce1ebf-afde-45b6-8ad4-48222c55dc1e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660914714843	Marionette	INFO	Stopped listening on port 52170
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52212" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilePTeNBX"
+1660914675096	Marionette	INFO	Marionette enabled
+1660914675099	Marionette	INFO	Listening on port 52224
+WebDriver BiDi listening on ws://localhost:52212
+Read port: 52224
+1660914675191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilePTeNBX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52212/devtools/browser/46a9a7f4-49bb-4849-baa7-543b4edf9f49
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660914714340	Marionette	INFO	Stopped listening on port 52224
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52256" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile1oxYcF"
+1660914706223	Marionette	INFO	Marionette enabled
+1660914706226	Marionette	INFO	Listening on port 52265
+WebDriver BiDi listening on ws://localhost:52256
+Read port: 52265
+1660914706392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile1oxYcF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52256/devtools/browser/da9d63d8-0327-4c53-8ede-864ce6f59343
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660914713602	Marionette	INFO	Stopped listening on port 52265
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660914785657	geckodriver	INFO	Listening on 127.0.0.1:52339
+1660914788719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52340" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilel4DnNz"
+1660914788964	Marionette	INFO	Marionette enabled
+1660914788967	Marionette	INFO	Listening on port 52349
+WebDriver BiDi listening on ws://localhost:52340
+Read port: 52349
+1660914789130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilel4DnNz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52340/devtools/browser/506b2c5f-0dd5-40e6-9757-f698c2ac8fa0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660914978158	Marionette	INFO	Stopped listening on port 52341660914979042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52449" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile7wIJqy"
+1660914979306	Marionette	INFO	Marionette enabled
+1660914979309	Marionette	INFO	Listening on port 52458
+WebDriver BiDi listening on ws://localhost:52449
+Read port: 52458
+1660914979472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile7wIJqy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52449/devtools/browser/88a8ee39-3341-4121-9303-1b42cbba64b9
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1660915105075	Marionette	INFO	Stopped listening on port 52458
+1660915166698	geckodriver	INFO	Listening on 127.0.0.1:52551
+1660915169759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52552" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilesw8qyN"
+1660915170030	Marionette	INFO	Marionette enabled
+1660915170034	Marionette	INFO	Listening on port 52562
+WebDriver BiDi listening on ws://localhost:52552
+Read port: 52562
+1660915170202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilesw8qyN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52552/devtools/browser/70369cd0-a1aa-490b-a986-72f161d9ae48
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660915174064	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1660915186598	Marionette	INFO	Stopped listening on port 52562
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660915289463	geckodriver	INFO	Listening on 127.0.0.1:52626
+1660915292522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52627" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileJmvQ90"
+1660915292767	Marionette	INFO	Marionette enabled
+1660915292770	Marionette	INFO	Listening on port 52636
+WebDriver BiDi listening on ws://localhost:52627
+Read port: 52636
+1660915292948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileJmvQ90\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52627/devtools/browser/6098f20a-6124-4979-8f30-1af0e47b4cb1
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660915341559	Marionette	INFO	Stopped listening on port 52636
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660915576676	geckodriver	INFO	Listening on 127.0.0.1:52746
+1660915579722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52747" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileQot38W"
+1660915579995	Marionette	INFO	Marionette enabled
+1660915579999	Marionette	INFO	Listening on port 52756
+WebDriver BiDi listening on ws://localhost:52747
+Read port: 52756
+1660915580106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileQot38W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52747/devtools/browser/ca0e455a-0c6c-448b-a76b-c6cd611d2c2d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+1660916453134	Marionette	INFO	Stopped listening on port 52756
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660917004494	geckodriver	INFO	Listening on 127.0.0.1:54200
+1660917007552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileGVvQqT"
+1660917007887	Marionette	INFO	Marionette enabled
+1660917007890	Marionette	INFO	Listening on port 54210
+WebDriver BiDi listening on ws://localhost:54201
+Read port: 54210
+1660917008155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileGVvQqT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54201/devtools/browser/506df645-2984-43f1-a422-be4b96b34be1
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660919053611	Marionette	INFO	Stopped listening on port 54210
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54269" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileRo4WnN"
+1660917069834	Marionette	INFO	Marionette enabled
+1660917069838	Marionette	INFO	Listening on port 54283
+WebDriver BiDi listening on ws://localhost:54269
+Read port: 54283
+1660917069952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileRo4WnN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54269/devtools/browser/0a77c7f0-dad8-47bf-bf48-bf3f57af75c1
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660919051568	Marionette	INFO	Stopped listening on port 54283
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54812" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileCjeTdR"
+1660918597075	Marionette	INFO	Marionette enabled
+1660918597079	Marionette	INFO	Listening on port 54821
+WebDriver BiDi listening on ws://localhost:54812
+Read port: 54821
+1660918597243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileCjeTdR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54812/devtools/browser/896027e0-264a-46a3-9de3-2753b4f8145b
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660919052639	Marionette	INFO	Stopped listening on port 54821
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660919538839	geckodriver	INFO	Listening on 127.0.0.1:55002
+1660919541897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileWHOci9"
+1660919542204	Marionette	INFO	Marionette enabled
+1660919542207	Marionette	INFO	Listening on port 55012
+WebDriver BiDi listening on ws://localhost:55003
+Read port: 55012
+1660919542299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileWHOci9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55003/devtools/browser/71eb861b-700d-430b-b9d0-c3960dd96790
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+1660919927587	Marionette	INFO	Stopped listening on port 55012
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660920085798	geckodriver	INFO	Listening on 127.0.0.1:55090
+1660920088841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileGcKeKa"
+1660920089098	Marionette	INFO	Marionette enabled
+1660920089101	Marionette	INFO	Listening on port 55100
+WebDriver BiDi listening on ws://localhost:55091
+Read port: 55100
+1660920089267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileGcKeKa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55091/devtools/browser/53f06f5e-57b9-47f7-acbf-9b36179df13d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660920316410	Marionette	INFO	Stopped listening on port 55100
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile7FyPq4"
+1660920183566	Marionette	INFO	Marionette enabled
+1660920183569	Marionette	INFO	Listening on port 55147
+WebDriver BiDi listening on ws://localhost:55138
+Read port: 55147
+1660920183741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile7FyPq4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55138/devtools/browser/dac626ab-a35e-4e54-9824-e4e758a38c46
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660920315524	Marionette	INFO	Stopped listening on port 55147
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55182" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile48ZYO4"
+1660920223656	Marionette	INFO	Marionette enabled
+1660920223659	Marionette	INFO	Listening on port 55191
+WebDriver BiDi listening on ws://localhost:55182
+Read port: 55191
+1660920223821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile48ZYO4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55182/devtools/browser/37dcb95e-0c78-4e09-87b6-0d8564e066d8
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660920314445	Marionette	INFO	Stopped listening on port 55191
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilezvdyxu"
+1660920250772	Marionette	INFO	Marionette enabled
+1660920250775	Marionette	INFO	Listening on port 55236
+WebDriver BiDi listening on ws://localhost:55227
+Read port: 55236
+1660920250945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilezvdyxu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55227/devtools/browser/4875c6ea-809c-40e7-8ed5-554271656dee
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 185: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+1660920373310	Marionette	INFO	Stopped listening on port 55236
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660921362076	geckodriver	INFO	Listening on 127.0.0.1:55425
+1660921365129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55426" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileZglEXu"
+1660921365392	Marionette	INFO	Marionette enabled
+1660921365395	Marionette	INFO	Listening on port 55435
+WebDriver BiDi listening on ws://localhost:55426
+Read port: 55435
+1660921365559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileZglEXu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55426/devtools/browser/5baa32fd-1664-47dd-bd00-c3a157298fec
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+1660921674607	Marionette	INFO	Stopped listening on port 55435
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55474" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileL9PZ19"
+1660921423678	Marionette	INFO	Marionette enabled
+1660921423681	Marionette	INFO	Listening on port 55483
+WebDriver BiDi listening on ws://localhost:55474
+Read port: 55483
+1660921423867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileL9PZ19\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55474/devtools/browser/ecaff2f5-3408-4ebe-b583-27801df0c28b
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660921675670	Marionette	INFO	Stopped listening on port 55483
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilen34hgz"
+1660921579132	Marionette	INFO	Marionette enabled
+1660921579135	Marionette	INFO	Listening on port 55550
+WebDriver BiDi listening on ws://localhost:55541
+Read port: 55550
+1660921579235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilen34hgz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55541/devtools/browser/d77b38e3-ba32-4c29-b3a8-e56c5f4a169a
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+1660921678722	Marionette	INFO	Stopped listening on port 55550
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilelkI1ln"
+1660921653849	Marionette	INFO	Marionette enabled
+1660921653852	Marionette	INFO	Listening on port 55604
+WebDriver BiDi listening on ws://localhost:55595
+Read port: 55604
+1660921653942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilelkI1ln\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55595/devtools/browser/2258b5c3-7812-44f2-8604-793ee6a7b1f4
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1660921834341	Marionette	INFO	Stopped listening on port 55604
+1660936346838	geckodriver	INFO	Listening on 127.0.0.1:57133
+1660936349902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57134" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileVhKFrD"
+1660936350162	Marionette	INFO	Marionette enabled
+1660936350166	Marionette	INFO	Listening on port 57143
+WebDriver BiDi listening on ws://localhost:57134
+Read port: 57143
+1660936350269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileVhKFrD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57134/devtools/browser/49f10917-bc61-407f-85ce-93f257957a4d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660936559408	Marionette	INFO	Stopped listening on port 57143
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57177" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileP7ZxXr"
+1660936392267	Marionette	INFO	Marionette enabled
+1660936392270	Marionette	INFO	Listening on port 57189
+WebDriver BiDi listening on ws://localhost:57177
+Read port: 57189
+1660936392388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileP7ZxXr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57177/devtools/browser/75d58b53-15e4-4ece-8463-f68f5f3cce20
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660936561046	Marionette	INFO	Stopped listening on port 57189
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile0IvNyF"
+1660936446425	Marionette	INFO	Marionette enabled
+1660936446428	Marionette	INFO	Listening on port 57236
+WebDriver BiDi listening on ws://localhost:57227
+Read port: 57236
+1660936446521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile0IvNyF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57227/devtools/browser/d8793fb1-4304-45bc-ada9-d2e5750b799e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660936562467	Marionette	INFO	Stopped listening on port 57236
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660936759188	geckodriver	INFO	Listening on 127.0.0.1:57347
+1660936762247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57348" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileVL0FzD"
+1660936762497	Marionette	INFO	Marionette enabled
+1660936762500	Marionette	INFO	Listening on port 57357
+WebDriver BiDi listening on ws://localhost:57348
+Read port: 57357
+1660936762722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileVL0FzD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57348/devtools/browser/9b1be515-65ef-4c64-86be-a3553ba212a3
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1660937184751	Marionette	INFO	Stopped listening on port 57357
+e-debugging-port" "57457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileAV2yuE"
+1660937148969	Marionette	INFO	Marionette enabled
+1660937148973	Marionette	INFO	Listening on port 57466
+WebDriver BiDi listening on ws://localhost:57457
+Read port: 57466
+1660937149150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileAV2yuE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57457/devtools/browser/419fc3cd-12e5-4f86-ac22-33e6f3120282
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+1660937184050	Marionette	INFO	Stopped listening on port 57466
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661003574464	geckodriver	INFO	Listening on 127.0.0.1:54008
+1661003577531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54009" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilePOG1mq"
+1661003577896	Marionette	INFO	Marionette enabled
+1661003577899	Marionette	INFO	Listening on port 54018
+WebDriver BiDi listening on ws://localhost:54009
+Read port: 54018
+1661003578151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilePOG1mq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54009/devtools/browser/b9157b13-fb25-42a3-8b14-afeeff2e6caf
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661012105281	Marionette	INFO	Stopped listening on port 54018
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54728" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile43MrPY"
+1661009827206	Marionette	INFO	Marionette enabled
+1661009827209	Marionette	INFO	Listening on port 54737
+WebDriver BiDi listening on ws://localhost:54728
+Read port: 54737
+1661009827297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile43MrPY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54728/devtools/browser/3e0513ff-3d7b-4616-9bf3-8a1c3bca28b3
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661012100303	Marionette	INFO	Stopped listening on port 54737
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661012229504	geckodriver	INFO	Listening on 127.0.0.1:56210
+1661012232550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileE2lFjc"
+1661012232807	Marionette	INFO	Marionette enabled
+1661012232811	Marionette	INFO	Listening on port 56220
+WebDriver BiDi listening on ws://localhost:56211
+Read port: 56220
+1661012232980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileE2lFjc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56211/devtools/browser/a006ccd3-011c-4074-824c-d79f4881e6b5
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1661012731714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileyh28Oa"
+1661012732033	Marionette	INFO	Marionette enabled
+1661012732036	Marionette	INFO	Listening on port 56397
+WebDriver BiDi listening on ws://localhost:56387
+Read port: 56397
+1661012732131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileyh28Oa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56387/devtools/browser/1523dd96-c8ca-45b0-bb5d-d540efc18be6
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661013004394	Marionette	INFO	Stopped listening on port 56397
+e-debugging-port" "56473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile12mpWB"
+1661012985912	Marionette	INFO	Marionette enabled
+1661012985915	Marionette	INFO	Listening on port 56482
+WebDriver BiDi listening on ws://localhost:56473
+Read port: 56482
+1661012986010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile12mpWB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56473/devtools/browser/75d3d6dc-c69b-44f6-b0a2-907ef4918b66
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661013003242	Marionette	INFO	Stopped listening on port 56481661013004178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56514" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileK96mAm"
+1661013004594	Marionette	INFO	Marionette enabled
+1661013004601	Marionette	INFO	Listening on port 56524
+WebDriver BiDi listening on ws://localhost:56514
+Read port: 56524
+1661013004717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileK96mAm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56514/devtools/browser/42ed578b-f1bf-44df-a5a4-ba23a2c15da8
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661013025194	Marionette	INFO	Stopped listening on port 56524
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661013027295	geckodriver	INFO	Listening on 127.0.0.1:56577
+1661013030339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56578" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileDj9DOY"
+1661013030606	Marionette	INFO	Marionette enabled
+1661013030610	Marionette	INFO	Listening on port 56587
+WebDriver BiDi listening on ws://localhost:56578
+Read port: 56587
+1661013030704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileDj9DOY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56578/devtools/browser/01a6730a-c761-4ee1-9507-724c60cfcbe2
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661013049075	Marionette	INFO	Stopped listening on port 56587
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661014171093	geckodriver	INFO	Listening on 127.0.0.1:56830
+1661014174146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile74a1t4"
+1661014174411	Marionette	INFO	Marionette enabled
+1661014174414	Marionette	INFO	Listening on port 56840
+WebDriver BiDi listening on ws://localhost:56831
+Read port: 56840
+1661014174595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile74a1t4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56831/devtools/browser/b21918e4-b30e-4096-bf13-9366ff60edcb
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661014273763	Marionette	INFO	Stopped listening on port 56840
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661014321606	geckodriver	INFO	Listening on 127.0.0.1:56882
+1661014324669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile42ABej"
+1661014324932	Marionette	INFO	Marionette enabled
+1661014324935	Marionette	INFO	Listening on port 56892
+WebDriver BiDi listening on ws://localhost:56883
+Read port: 56892
+1661014325042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile42ABej\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56883/devtools/browser/2bfa332d-d54e-4f3a-8a3f-dd035e96bab2
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661014337918	Marionette	INFO	Stopped listening on port 56892
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661018764682	geckodriver	INFO	Listening on 127.0.0.1:49689
+1661018767742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49690" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilevxfbcK"
+1661018768001	Marionette	INFO	Marionette enabled
+1661018768004	Marionette	INFO	Listening on port 49700
+WebDriver BiDi listening on ws://localhost:49690
+Read port: 49700
+1661018768168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilevxfbcK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49690/devtools/browser/4268050c-a961-4868-8afd-7bfedca6e09a
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661018818809	Marionette	INFO	Stopped listening on port 49700
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilevMXKRo"
+1661018780233	Marionette	INFO	Marionette enabled
+1661018780237	Marionette	INFO	Listening on port 49742
+WebDriver BiDi listening on ws://localhost:49733
+Read port: 49742
+1661018780338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilevMXKRo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49733/devtools/browser/fcf9d9bd-7efb-47d1-849c-2c903c15154d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661018817915	Marionette	INFO	Stopped listening on port 49742
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49775" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileHniFgC"
+1661018792317	Marionette	INFO	Marionette enabled
+1661018792320	Marionette	INFO	Listening on port 49784
+WebDriver BiDi listening on ws://localhost:49775
+Read port: 49784
+1661018792487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileHniFgC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49775/devtools/browser/07044c4f-0538-48b0-ae49-553e69123b98
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661018817242	Marionette	INFO	Stopped listening on port 49784
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661019356514	geckodriver	INFO	Listening on 127.0.0.1:50130
+1661019359576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile22vPno"
+1661019359861	Marionette	INFO	Marionette enabled
+1661019359865	Marionette	INFO	Listening on port 50140
+WebDriver BiDi listening on ws://localhost:50131
+Read port: 50140
+1661019359955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile22vPno\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50131/devtools/browser/f202858a-344f-4539-b344-76a5f0315f27
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661019363318	Marionette	INFO	Stopped listening on port 50140
+1661019376066	geckodriver	INFO	Listening on 127.0.0.1:50165
+1661019379120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50166" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile1PV5CA"
+1661019379404	Marionette	INFO	Marionette enabled
+1661019379407	Marionette	INFO	Listening on port 50175
+WebDriver BiDi listening on ws://localhost:50166
+Read port: 50175
+1661019379508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile1PV5CA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50166/devtools/browser/8d382429-2b17-4374-8541-1882c36a722e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661019383661	Marionette	INFO	Stopped listening on port 50175
+1661019647856	geckodriver	INFO	Listening on 127.0.0.1:50277
+1661019650917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50278" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofiled8pp0p"
+1661019651215	Marionette	INFO	Marionette enabled
+1661019651220	Marionette	INFO	Listening on port 50287
+WebDriver BiDi listening on ws://localhost:50278
+Read port: 50287
+1661019651327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofiled8pp0p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50278/devtools/browser/45eff90c-e7d9-4e38-a2f9-0f1e0d51db9c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661019656055	Marionette	INFO	Stopped listening on port 50287
+1661019709720	geckodriver	INFO	Listening on 127.0.0.1:50316
+1661019712777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileIILP0c"
+1661019713057	Marionette	INFO	Marionette enabled
+1661019713060	Marionette	INFO	Listening on port 50326
+WebDriver BiDi listening on ws://localhost:50317
+Read port: 50326
+1661019713181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileIILP0c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50317/devtools/browser/a8dc5f3d-7743-4b87-b156-996cd687f684
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661019717335	Marionette	INFO	Stopped listening on port 50326
+1661020833161	geckodriver	INFO	Listening on 127.0.0.1:50580
+1661020836224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50581" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileecUvqi"
+1661020836492	Marionette	INFO	Marionette enabled
+1661020836495	Marionette	INFO	Listening on port 50590
+WebDriver BiDi listening on ws://localhost:50581
+Read port: 50590
+1661020836671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileecUvqi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50581/devtools/browser/a5d90d79-7749-42a0-b862-b5c8b6a4d933
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661020844467	Marionette	INFO	Stopped listening on port 50590
+1661020883580	geckodriver	INFO	Listening on 127.0.0.1:50624
+1661020886659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileg0TFd1"
+1661020886947	Marionette	INFO	Marionette enabled
+1661020886952	Marionette	INFO	Listening on port 50638
+WebDriver BiDi listening on ws://localhost:50625
+Read port: 50638
+1661020887074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileg0TFd1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50625/devtools/browser/7265bbd0-3cd6-4349-8082-5ffe61310cbb
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661020895498	Marionette	INFO	Stopped listening on port 50638
+1661020936144	geckodriver	INFO	Listening on 127.0.0.1:50674
+1661020939205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50675" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileg3Y9pJ"
+1661020939477	Marionette	INFO	Marionette enabled
+1661020939480	Marionette	INFO	Listening on port 50685
+WebDriver BiDi listening on ws://localhost:50675
+Read port: 50685
+1661020939574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileg3Y9pJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50675/devtools/browser/cb4c0b10-f182-43fd-8e74-833e8cd82a51
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+1661020947364	Marionette	INFO	Stopped listening on port 50685
+1661021000593	geckodriver	INFO	Listening on 127.0.0.1:50719
+1661021003661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileDWYBnt"
+1661021003914	Marionette	INFO	Marionette enabled
+1661021003917	Marionette	INFO	Listening on port 50729
+WebDriver BiDi listening on ws://localhost:50720
+Read port: 50729
+1661021004138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileDWYBnt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50720/devtools/browser/5934b04b-aac5-4a11-b3a1-f968dcef97db
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661021012303	Marionette	INFO	Stopped listening on port 50729
+1661021030563	geckodriver	INFO	Listening on 127.0.0.1:50763
+1661021033645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50764" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileMvxuPg"
+1661021033897	Marionette	INFO	Marionette enabled
+1661021033900	Marionette	INFO	Listening on port 50773
+WebDriver BiDi listening on ws://localhost:50764
+Read port: 50773
+1661021034064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileMvxuPg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50764/devtools/browser/bedd487b-8758-428e-9d98-212c245882e7
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661021042308	Marionette	INFO	Stopped listening on port 50773
+1661021647981	geckodriver	INFO	Listening on 127.0.0.1:50920
+1661021651032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileDvp6Z2"
+1661021651305	Marionette	INFO	Marionette enabled
+1661021651308	Marionette	INFO	Listening on port 50930
+WebDriver BiDi listening on ws://localhost:50921
+Read port: 50930
+1661021651473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileDvp6Z2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50921/devtools/browser/26ea900b-d3ed-4c96-a919-c1dba7cb3198
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+1661021660678	Marionette	INFO	Stopped listening on port 50930
+1661022284743	geckodriver	INFO	Listening on 127.0.0.1:51038
+1661022287792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51039" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileh4NQ72"
+1661022288041	Marionette	INFO	Marionette enabled
+1661022288044	Marionette	INFO	Listening on port 51048
+WebDriver BiDi listening on ws://localhost:51039
+Read port: 51048
+1661022288218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileh4NQ72\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51039/devtools/browser/150de7bd-7769-4f34-b26b-15e8ce1a3897
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+1661022294414	Marionette	INFO	Stopped listening on port 51048
+1661022508204	geckodriver	INFO	Listening on 127.0.0.1:51108
+1661022511273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile1NUuB0"
+1661022511519	Marionette	INFO	Marionette enabled
+1661022511522	Marionette	INFO	Listening on port 51118
+WebDriver BiDi listening on ws://localhost:51109
+Read port: 51118
+1661022511686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile1NUuB0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51109/devtools/browser/60e380df-4374-43ea-a1f6-75fbc6359ae9
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661025152678	Marionette	INFO	Stopped listening on port 51118
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 234: TypeError: this._builder is undefined
+	Marionette enabled
+1661022818107	Marionette	INFO	Listening on port 51218
+WebDriver BiDi listening on ws://localhost:51206
+Read port: 51218
+1661022818198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile594M5T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51206/devtools/browser/c2ba2815-ad37-40f3-a94f-8c35ac59c354
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661025152895	Marionette	INFO	Stopped listening on port 51218
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+103135	Marionette	INFO	Marionette enabled
+1661023103138	Marionette	INFO	Listening on port 51310
+WebDriver BiDi listening on ws://localhost:51301
+Read port: 51310
+1661023103304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileIeYR6N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51301/devtools/browser/67153d65-0e1f-4355-ab49-1ab4b76ee559
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661023140122	Marionette	INFO	Stopped listening on port 51310
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile3D8fB5"
+1661023127601	Marionette	INFO	Marionette enabled
+1661023127604	Marionette	INFO	Listening on port 51350
+WebDriver BiDi listening on ws://localhost:51341
+Read port: 51350
+1661023127702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile3D8fB5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51341/devtools/browser/0abc71bc-f09d-41fc-b634-aabd16ff60ac
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661023134585	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1661023138401	Marionette	INFO	Stopped listening on port 51350
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661062093883	geckodriver	INFO	Listening on 127.0.0.1:52426
+1661062096961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilefthzxT"
+1661062097241	Marionette	INFO	Marionette enabled
+1661062097244	Marionette	INFO	Listening on port 52436
+WebDriver BiDi listening on ws://localhost:52427
+Read port: 52436
+1661062097343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilefthzxT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52427/devtools/browser/2b003644-66a1-4fac-a61a-efda33406fd3
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661062113700	Marionette	INFO	Stopped listening on port 52436
+1661149547992	geckodriver	INFO	Listening on 127.0.0.1:50296
+1661149551066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilevoADeo"
+1661149551454	Marionette	INFO	Marionette enabled
+1661149551458	Marionette	INFO	Listening on port 50306
+WebDriver BiDi listening on ws://localhost:50297
+Read port: 50306
+1661149551619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilevoADeo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50297/devtools/browser/ad1e0394-3c4a-4d2b-b035-b2f7c2b8d8be
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661149557774	Marionette	INFO	Stopped listening on port 50306
+1661177142406	geckodriver	INFO	Listening on 127.0.0.1:50747
+1661177145476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50748" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileb944Ng"
+1661177145804	Marionette	INFO	Marionette enabled
+1661177145808	Marionette	INFO	Listening on port 50757
+WebDriver BiDi listening on ws://localhost:50748
+Read port: 50757
+1661177145907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileb944Ng\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50748/devtools/browser/01530eeb-1674-4410-8944-b3b9649c5db5
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661177162184	Marionette	INFO	Stopped listening on port 50757
+1661180162138	geckodriver	INFO	Listening on 127.0.0.1:51312
+1661180165174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile0s1fhu"
+1661180165448	Marionette	INFO	Marionette enabled
+1661180165451	Marionette	INFO	Listening on port 51322
+WebDriver BiDi listening on ws://localhost:51313
+Read port: 51322
+1661180165625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile0s1fhu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51313/devtools/browser/84ef81a2-bddf-4097-bd21-4c3f8c523b3b
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1661180230375	Marionette	INFO	Stopped listening on port 51322
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51358" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile7G8Af5"
+1661180199010	Marionette	INFO	Marionette enabled
+1661180199013	Marionette	INFO	Listening on port 51367
+WebDriver BiDi listening on ws://localhost:51358
+Read port: 51367
+1661180199118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile7G8Af5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51358/devtools/browser/527506f4-f8ce-444b-b7e6-ac30887a393a
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1661180228983	Marionette	INFO	Stopped listening on port 51367
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661247899875	geckodriver	INFO	Listening on 127.0.0.1:56867
+1661247902943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56868" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileNkVkLu"
+1661247903296	Marionette	INFO	Marionette enabled
+1661247903300	Marionette	INFO	Listening on port 56878
+WebDriver BiDi listening on ws://localhost:56868
+Read port: 56878
+1661247903423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileNkVkLu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56868/devtools/browser/adc6d8d6-81f3-4d14-b5a7-50c123a8e52b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661247909998	Marionette	INFO	Stopped listening on port 56878
+1661247982395	geckodriver	INFO	Listening on 127.0.0.1:56911
+1661247985450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56912" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile0rHNZg"
+1661247985706	Marionette	INFO	Marionette enabled
+1661247985709	Marionette	INFO	Listening on port 56921
+WebDriver BiDi listening on ws://localhost:56912
+Read port: 56921
+1661247985873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile0rHNZg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56912/devtools/browser/e5bb43d7-c0b4-470d-8cc0-253b8825f7fa
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661248090115	Marionette	INFO	Stopped listening on port 56921
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56952" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilej73N1M"
+1661248033819	Marionette	INFO	Marionette enabled
+1661248033824	Marionette	INFO	Listening on port 56962
+WebDriver BiDi listening on ws://localhost:56952
+Read port: 56962
+1661248033997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilej73N1M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56952/devtools/browser/65fc4db7-fb84-4c1c-9381-5a1665f48788
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661248088866	Marionette	INFO	Stopped listening on port 56962
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661252531840	geckodriver	INFO	Listening on 127.0.0.1:58845
+1661252534906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58846" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile6TsFSn"
+1661252535160	Marionette	INFO	Marionette enabled
+1661252535165	Marionette	INFO	Listening on port 58856
+WebDriver BiDi listening on ws://localhost:58846
+Read port: 58856
+1661252535327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile6TsFSn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58846/devtools/browser/e1853eb4-63fa-4ff0-bcd0-86c1c81c7cb2
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+1661252564538	Marionette	INFO	Stopped listening on port 58851661252565211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilegKM5i7"
+1661252565501	Marionette	INFO	Marionette enabled
+1661252565505	Marionette	INFO	Listening on port 58897
+WebDriver BiDi listening on ws://localhost:58887
+Read port: 58897
+1661252565614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilegKM5i7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58887/devtools/browser/77348b38-9b0a-4cb4-b8a6-4c53eba4a044
+1661252585328	Marionette	INFO	Stopped listening on port 58891661252586126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileTJvXLd"
+1661252586394	Marionette	INFO	Marionette enabled
+1661252586397	Marionette	INFO	Listening on port 58930
+WebDriver BiDi listening on ws://localhost:58921
+Read port: 58930
+1661252586489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileTJvXLd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58921/devtools/browser/4b1925a5-f775-40b1-b2c5-9b937f419cce
+1661252636339	Marionette	INFO	Stopped listening on port 58930
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+rs\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile5YFlFS"
+1661252613760	Marionette	INFO	Marionette enabled
+1661252613763	Marionette	INFO	Listening on port 58972
+WebDriver BiDi listening on ws://localhost:58961
+Read port: 58972
+1661252613928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile5YFlFS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58961/devtools/browser/683dfd75-bc2a-4a12-926d-667a384c0965
+1661252635652	Marionette	INFO	Stopped listening on port 58972
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilegxit90"
+1661252634640	Marionette	INFO	Marionette enabled
+1661252634643	Marionette	INFO	Listening on port 59006
+WebDriver BiDi listening on ws://localhost:58997
+Read port: 59006
+1661252634737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1661252635528	Marionette	INFO	Stopped listening on port 59006
+1661252635531	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+1661252639452	geckodriver	INFO	Listening on 127.0.0.1:59014
+1661252642515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilezPtS9w"
+1661252642769	Marionette	INFO	Marionette enabled
+1661252642772	Marionette	INFO	Listening on port 59024
+WebDriver BiDi listening on ws://localhost:59015
+Read port: 59024
+1661252642878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilezPtS9w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59015/devtools/browser/a07173da-7e04-4564-a127-8748ce8a82cd
+1661252653980	Marionette	INFO	Stopped listening on port 59024
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661252699552	geckodriver	INFO	Listening on 127.0.0.1:59065
+1661252702608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59066" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileG4P0TM"
+1661252702861	Marionette	INFO	Marionette enabled
+1661252702864	Marionette	INFO	Listening on port 59075
+WebDriver BiDi listening on ws://localhost:59066
+Read port: 59075
+1661252703029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileG4P0TM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59066/devtools/browser/739bb669-eb42-4fe6-8b3a-6f4f0b5dcf9b
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1661252916957	Marionette	INFO	Stopped listening on port 59075
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661252920198	geckodriver	INFO	Listening on 127.0.0.1:59175
+1661252923268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59176" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilePM2hkN"
+1661252923538	Marionette	INFO	Marionette enabled
+1661252923541	Marionette	INFO	Listening on port 59186
+WebDriver BiDi listening on ws://localhost:59176
+Read port: 59186
+1661252923645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofilePM2hkN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59176/devtools/browser/fc05ddaa-464c-495a-888e-60ba1e74e8b4
+1661253941593	Marionette	INFO	Stopped listening on port 59186
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661262535775	geckodriver	INFO	Listening on 127.0.0.1:61317
+1661262538840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61318" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileYGhhd6"
+1661262539104	Marionette	INFO	Marionette enabled
+1661262539107	Marionette	INFO	Listening on port 61328
+WebDriver BiDi listening on ws://localhost:61318
+Read port: 61328
+1661262539271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileYGhhd6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61318/devtools/browser/34e08db1-6380-4505-8ecf-d352730871d1
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+1661262542186	Marionette	INFO	Stopped listening on port 61328
+1661262600475	geckodriver	INFO	Listening on 127.0.0.1:61359
+1661262603530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61360" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileZwie6r"
+1661262603838	Marionette	INFO	Marionette enabled
+1661262603841	Marionette	INFO	Listening on port 61369
+WebDriver BiDi listening on ws://localhost:61360
+Read port: 61369
+1661262603951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileZwie6r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61360/devtools/browser/0ea5d70d-37ae-4388-a219-3e86b94272de
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661262607537	Marionette	INFO	Stopped listening on port 61369
+1661327256112	geckodriver	INFO	Listening on 127.0.0.1:59122
+1661327259168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59123" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile8c4ein"
+1661327259439	Marionette	INFO	Marionette enabled
+1661327259443	Marionette	INFO	Listening on port 59133
+WebDriver BiDi listening on ws://localhost:59123
+Read port: 59133
+1661327259548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile8c4ein\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59123/devtools/browser/1b44e805-b4a7-49df-a3b9-9aab70bcd531
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661327263447	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1661327265024	Marionette	INFO	Stopped listening on port 59133
+1661327271774	geckodriver	INFO	Listening on 127.0.0.1:59166
+1661327274843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59167" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile9SL3OU"
+1661327275094	Marionette	INFO	Marionette enabled
+1661327275097	Marionette	INFO	Listening on port 59176
+WebDriver BiDi listening on ws://localhost:59167
+Read port: 59176
+1661327275260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile9SL3OU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59167/devtools/browser/9d77989b-50c3-4983-acc7-e9b9d6cbcc5b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661327279836	Marionette	INFO	Stopped listening on port 59176
+1661327393606	geckodriver	INFO	Listening on 127.0.0.1:59215
+1661327396678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59216" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile3FJoGf"
+1661327396943	Marionette	INFO	Marionette enabled
+1661327396947	Marionette	INFO	Listening on port 59225
+WebDriver BiDi listening on ws://localhost:59216
+Read port: 59225
+1661327397046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile3FJoGf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59216/devtools/browser/3fe7f62e-9c37-4be2-a6e8-1dddc2232483
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661327403026	Marionette	INFO	Stopped listening on port 59225
+1661327480933	geckodriver	INFO	Listening on 127.0.0.1:59264
+1661327483998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileVL0zVf"
+1661327484291	Marionette	INFO	Marionette enabled
+1661327484294	Marionette	INFO	Listening on port 59274
+WebDriver BiDi listening on ws://localhost:59265
+Read port: 59274
+1661327484388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileVL0zVf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59265/devtools/browser/1c44f9d3-58ac-4425-b6e5-fb4ab8489441
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661327490479	Marionette	INFO	Stopped listening on port 59274
+1661328660004	geckodriver	INFO	Listening on 127.0.0.1:59511
+1661328663062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59512" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile9jvJCV"
+1661328663331	Marionette	INFO	Marionette enabled
+1661328663334	Marionette	INFO	Listening on port 59521
+WebDriver BiDi listening on ws://localhost:59512
+Read port: 59521
+1661328663433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofile9jvJCV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59512/devtools/browser/ffa6c6e1-e9e0-441d-b8e6-21ae69ef36bf
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661328669083	Marionette	INFO	Stopped listening on port 59521
+!!! error running onStopped callback: TypeError: callback is not a function
+1661328722866	geckodriver	INFO	Listening on 127.0.0.1:59627
+1661328725935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59628" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileQfe1dU"
+1661328726187	Marionette	INFO	Marionette enabled
+1661328726190	Marionette	INFO	Listening on port 59637
+WebDriver BiDi listening on ws://localhost:59628
+Read port: 59637
+1661328726353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofileQfe1dU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59628/devtools/browser/c5d6e791-1348-404f-8931-d13022c9ae57
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+1661328735152	Marionette	INFO	Stopped listening on port 59637
+1661328947289	geckodriver	INFO	Listening on 127.0.0.1:59715
+1661328950332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59716" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofiletwFI3V"
+1661328950600	Marionette	INFO	Marionette enabled
+1661328950603	Marionette	INFO	Listening on port 59725
+WebDriver BiDi listening on ws://localhost:59716
+Read port: 59725
+1661328950776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSTZKA~1\\AppData\\Local\\Temp\\rust_mozprofiletwFI3V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59716/devtools/browser/316d4f7b-42f0-4bd8-8021-8ad78a57e0ef
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://seleniumkurs.codingsolo.de"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+1661328960809	Marionette	INFO	Stopped listening on port 59725
